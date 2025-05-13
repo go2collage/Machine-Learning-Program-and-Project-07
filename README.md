@@ -1,6 +1,6 @@
 # Machine-Learning-Program-and-Project-07
 
-## Question 01:  Use Share Market dataset to predict ups and downs in the market and predict future stock price returns based on Indian Market data from 2000 to 2020.
+## Question 01: Use Share Market dataset to predict ups and downs in the market and predict future stock price returns based on Indian Market data from 2000 to 2020.
 
 ## 
 
